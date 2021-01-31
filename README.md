@@ -22,6 +22,10 @@ AND ᵏᵃᵏ𝙰 𝙽 𝙾📿 AND "𝐀𝐍𝐎"ᵏᵃᵏቿ𝗠𝗣𝗥𝗔�
 
 ⚡️`python2 stafano.py`⚡️
 
+⚡️`username : StafAno`⚡️
+
+⚡️`pass : StafAno`⚡️
+
 # stafano Server
 
 **Server join**
